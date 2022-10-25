@@ -1,6 +1,9 @@
 # BinGenV1
 BinGenV1
 
+![Screenshot_811](https://user-images.githubusercontent.com/50181413/197827987-5289539d-6260-4ef2-bf70-407357ca905d.png)
+
+
 Step1:
 
 Install
