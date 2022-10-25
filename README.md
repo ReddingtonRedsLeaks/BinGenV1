@@ -1,7 +1,8 @@
 # BinGenV1
 BinGenV1
 
-![Screenshot_811](https://user-images.githubusercontent.com/50181413/197827987-5289539d-6260-4ef2-bf70-407357ca905d.png)
+
+![Screenshot_812](https://user-images.githubusercontent.com/50181413/197831049-52fe644a-5a8d-45bf-9424-bf8476ed64d7.png)
 
 
 Step1:
