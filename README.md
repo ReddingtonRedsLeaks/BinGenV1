@@ -17,7 +17,7 @@ for questions ask
 https://t.me/ReddingtonRedsLeaks
 or
 
-@encro90
+https://t.me/encro90
 
 t.me/redsleaksofficial
 t.me/eleakzz
